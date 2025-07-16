@@ -15,7 +15,7 @@
 
 | Добавление | Список | Сортировка |
 |-----------|--------|------------|
-| ![Add Birthday](./screenshots/addBirthday.png) | ![List View](./screenshots/listView.png) | ![Sorted List](./screenshots/listViewSort.png) |
+| ![Add Birthday](./Screenshots/addBirthday.png) | ![List View](./Screenshots/listView.png) | ![Sorted List](./Screenshots/listViewSort.png) |
 
 ## Клонирование проекта
 
